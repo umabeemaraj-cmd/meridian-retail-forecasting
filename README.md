@@ -2,7 +2,6 @@
 
 **An interactive retail analytics and AI-powered sales forecasting project** built with Python, machine learning, and a lightweight web dashboard.
 
-> **Live Demo:** Add your deployed website URL here  
 > **Dataset:** Retail sales dataset containing approximately 73,000 records
 
 ## Overview
@@ -145,13 +144,3 @@ After deployment, replace the Live Demo placeholder at the top of this README wi
 ## Learning Outcomes
 
 This project provides practical experience with data cleaning, exploratory analysis, forecasting evaluation, clustering, interactive dashboard development, and communicating business insights from data.
-
-## Author
-
-**Your Name**  
-GitHub: `https://github.com/YOUR-USERNAME`  
-LinkedIn: Add your LinkedIn profile URL
-
-## Tags
-
-`Python` `MachineLearning` `RetailAnalytics` `SalesForecasting` `DataAnalytics` `KMeans` `Dashboard`
